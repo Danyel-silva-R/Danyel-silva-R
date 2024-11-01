@@ -14,6 +14,12 @@ Sou um desenvolvedor focado em criar soluções práticas e inovadoras, especial
 
 ---
 
+
+
+<div align="center" style="margin-bottom:100px">
+<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Danyel-silva-R&theme=dracula&mode=weekly" />
+<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyel-silva-R&show_icons=true&theme=dracula&layout=compact" />
+</div>
 ## 🎓 Formação Acadêmica
 
 - **Curso Técnico**: Manutenção e Suporte em Informática - Instituto Federal do Pará (IFPA)
